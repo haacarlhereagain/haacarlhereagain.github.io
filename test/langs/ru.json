@@ -1,0 +1,70 @@
+{
+  "lang": "русский",
+  "header": {
+    "title": "Календарь ивентов",
+    "enter": "Войти"
+  },
+  "h-select": {
+    "all": "Все",
+    "several": "Несколько"
+  },
+  "enter": {
+    "login": "Логин",
+    "password": "Пароль",
+    "enter": "Войти",
+    "create": "Создать",
+    "authTitleAuth": "Авторизация",
+    "authTitleReg": "Регистрация",
+    "createAccount": "Создать аккаунт",
+    "enterInAccount": "Уже есть аккаунт",
+    "backToCalendar": "Вернуться к календарю",
+    "bio": "О челике",
+    "passwordError": "Пароль должен состоять минимум из 6-ти символов"
+  },
+  "calendar": {
+    "year": "год",
+    "month": "месяц",
+    "city": "город",
+    "noEventsInMonth": "В этом месяце нет ивентов :(",
+    "weekDays": {
+      "monday": "Понедельник",
+      "tuesday": "Вторник",
+      "wednesday": "Среда",
+      "thursday": "Четверг",
+      "friday": "Пятница",
+      "saturday": "Суббота",
+      "sunday": "Воскресенье"
+    },
+    "calendarCell": {
+      "eventsCount": "ивентов",
+      "noData": "Пусто :("
+    },
+    "modal": {
+      "cell": "Подробная информация ивентов за день",
+      "event": "Подробная информация об ивенте"
+    }
+  },
+  "city": {
+    "infoText": "Выберите город"
+  },
+  "editCalendar": {
+    "addNew": "Добавить новый ивент",
+    "table": {
+      "name": "Имя ивента",
+      "place": "Место",
+      "tags": "Теги",
+      "age": "Возраст",
+      "url": "Url"
+    },
+    "modalCreateEvent": {
+      "title": "Создание ивента"
+    }
+  },
+  "manage": {
+    "sections": "Разделы",
+    "sectionsList": {
+      "tags": "Теги",
+      "cities": "Города"
+    }
+  }
+}

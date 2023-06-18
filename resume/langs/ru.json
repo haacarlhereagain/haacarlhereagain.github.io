@@ -1,0 +1,108 @@
+{
+  "mainData": {
+    "name": "Александр Халиветов",
+    "role": "Фронтенд-разработчик",
+    "contacts": {
+      "notClicked": {
+        "email": {
+          "text": "haacarlhereagain@gmail.com",
+          "icon": "mdi mdi-email-outline"
+        },
+        "phone": {
+          "text": "+7-900-070-75-64",
+          "icon": "mdi mdi-phone"
+        }
+      },
+      "clickable": {
+        "telegram": {
+          "text": "Telegram",
+          "link": "https://t.me/haacarlhereagain",
+          "icon": "mdi mdi-telegram"
+        },
+        "github": {
+          "text": "Github",
+          "link": "https://github.com/haacarlhereagain",
+          "icon": "mdi mdi-github"
+        },
+        "instagram": {
+          "text": "Instagram",
+          "link": "https://www.instagram.com/haacarlhereagain/",
+          "icon": "mdi mdi-instagram"
+        }
+      }
+    }
+  },
+  "skillz": {
+    "title": "Стек",
+    "values": [
+      "HTML, CSS, JS, TS",
+      "Vue (Vue 2 / Vue 3, CompositionAPI), Vuex, Pinia, Vue-router, Vuetify, Quasar, Buefy, Vue-cli, Vite, Nuxt 3",
+      "Angular, RxJs, Angular-router, Material-angular",
+      "React, Redux, React-router, MUI (слабый уровень - пилил пет-проект)",
+      "NodeJS (ExpressJS, NestJS), MongoDB",
+      "JQuery, Bootstrap (4, 5), SASS, Tailwind",
+      "Git, Webpack",
+      "Опыт работы с большим количеством js-библиотек и плагинов"
+    ]
+  },
+  "aboutMe": {
+    "title": "Обо мне",
+    "values": [
+      "Мне ~YEAR, окончил ВУЗ (кафедра ИКТ), военный билет на руках",
+      "Уровень английского A2",
+      "Быстро обучаем, готов к активной коммуникации и дальнейшему развитию",
+      "Ответственен и исполнителен",
+      "Имею позитивные взгляды на жизнь"
+    ]
+  },
+
+  "thx": "Спасибо за то, что просмотрели мое портфолио!",
+  "worksPlacesButton": "Опыт работы",
+
+  "modalWorksPlaces": {
+    "title": "Опыт работы",
+    "worksPlaces": [{
+      "title": "Лоция",
+      "values": [
+        {"name": "Период", "value": "С октября 2022. по н.в."},
+        {"name": "Должность", "value": "Старший фронтенд-разработчик (Vue 3)"},
+        {"name": "Деятельность", "value": "Разработка клиентской части ИС"},
+        {"name": "Сайт компании", "value": "https://www.loodsen.ru/"}
+      ]
+    }, {
+      "title": "WaveAccess",
+      "values": [
+        {"name": "Период", "value": "С июля 2021 г. по октябрь 2022 г."},
+        {"name": "Должность", "value": "Фронтент-разработчик (Vue 3, Angular, Nuxt 3)"},
+        {"name": "Деятельность", "value": "Разработка клиентской части ИС"},
+        {"name": "Сайт компании", "value": "https://www.waveaccess.ru/"}
+      ]
+    },
+      {
+      "title": "ООО \"Технология\"",
+      "values": [
+        {"name": "Период", "value": "С ноября 2020 г. по июль 2021 г."},
+        {"name": "Должность", "value": "Фронтент-разработчик (Vue 2)"},
+        {"name": "Деятельность", "value": "Разработка клиентской части ИС"},
+        {"name": "Сайт компании", "value": "https://ooo.technology/"}
+      ]
+      }, {
+        "title": "ООО \"Япоки\"",
+        "values": [
+          {"name": "Период", "value": "С августа 2019 г. по ноябрь 2020 г."},
+          {"name": "Должность", "value": "Фронтент-разработчик (Vue 2)"},
+          {"name": "Деятельность", "value": "Разработка клиентской части ИС"},
+          {"name": "Сайт компании", "value": "https://yapoki.ru/"}
+        ]
+      }, {
+        "title": "Веб-студия \"Некстайп\"",
+        "values": [
+          {"name": "Период", "value": "С мая 2019 г. по июнь 2019 г."},
+          {"name": "Должность", "value": "Стажер-верстальщик"},
+          {"name": "Деятельность", "value": "Натягивание сверстанных блоков на битрикс"},
+          {"name": "Сайт компании", "value": "https://nextype.ru/"}
+        ]
+      }
+    ]
+  }
+}
